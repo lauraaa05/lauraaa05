@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZpaHBhNTNwNmt5aHdjbGNhOGU3M2N1ZmlyNDB4YjVjZGk0emh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEzKGecPbUAQedpfEA/giphy.gif" alt="Flowers" width="400"  /> </p>
 
-- 🌱 I’m currently studying **Computer Science in Esbjerg, Denmark**
+- 🌱 I’m currently studying **Computer Science in Esbjerg, Denmark 🇩🇰 **
 
 - 💬 Ask me about **code or anything related!**
 
