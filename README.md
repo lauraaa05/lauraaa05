@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently studying **Computer Science in Esbjerg, Denmark**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **code or anything related!**
 
 - 📫 How to reach me **shpakovalaura@gmail.com OR laurashpakova05@gmail.com**
 
