@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laura Shpakova</h1>
-<h3 align="center">A passionate student from Finland 🇫🇮!</h3>
+<h3 align="center">A passionate student from Finland 🇫🇮 !</h3>
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=lauraaa05&label=Profile%20views&color=f5d6ec&style=flat" alt="lauraaa05" /> </p>
 
