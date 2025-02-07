@@ -3,7 +3,7 @@
 
 <p align="middle"> <img src="https://komarev.com/ghpvc/?username=lauraaa05&label=Profile%20views&color=f5d6ec&style=flat" alt="lauraaa05" /> </p>
 
-<p allign="middle"> <img src="https://favim.com/pd/p/orig/2018/07/30/pink-flowers-gif-Favim.com-6062780.gif" alt="Flowers" width="400" /> </p>
+<p align="center"> <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZpaHBhNTNwNmt5aHdjbGNhOGU3M2N1ZmlyNDB4YjVjZGk0emh4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aEzKGecPbUAQedpfEA/giphy.gif" alt="Flowers" width="400"  /> </p>
 
 - 🌱 I’m currently studying **Computer Science in Esbjerg, Denmark**
 
