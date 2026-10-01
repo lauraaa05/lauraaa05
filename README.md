@@ -51,10 +51,10 @@
 
 <p align="center">
   <a href="https://github.com/AliEmredk/FullStackIOT-4thSemester" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliEmredk&repo=FullStackIOT-4thSemester&show_owner=true&bg_color=fff0f5&title_color=d6336c&icon_color=f06292&text_color=7a5566&border_color=f5c2d7&border_radius=10" alt="FullStackIOT-4thSemester" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliEmredk&repo=FullStackIOT-4thSemester&show_owner=true&bg_color=fff0f5&title_color=d6336c&icon_color=f06292&text_color=7a5566&border_color=f5c2d7&border_radius=10" alt="FullStackIOT-4thSemester" width="48%" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/AliEmredk/IOT-AirQualityMonitor" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliEmredk&repo=IOT-AirQualityMonitor&show_owner=true&bg_color=fff0f5&title_color=d6336c&icon_color=f06292&text_color=7a5566&border_color=f5c2d7&border_radius=10" alt="IOT-AirQualityMonitor" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliEmredk&repo=IOT-AirQualityMonitor&show_owner=true&bg_color=fff0f5&title_color=d6336c&icon_color=f06292&text_color=7a5566&border_color=f5c2d7&border_radius=10" alt="IOT-AirQualityMonitor" width="48%" />
   </a>
 </p>
 
